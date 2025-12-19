@@ -18,14 +18,14 @@ The notebook generates the following figures:
 Each figure is accompanied by a written explanation describing the observed trends and their public health relevance.
 
 ## How to Run the Notebook
-1. Open the Jupyter Notebook file `obesity_diabetes_analysis.ipynb`.
+1. Open the Jupyter Notebook file `Deliverable-4_Final-Code-Notebook.ipynb`.
 2. Run all cells from top to bottom.
 3. All figures will be generated automatically.
 
 The notebook is compatible with Google Colab and local Jupyter Notebook environments.
 
 ## Files in This Repository
-- `obesity_diabetes_analysis.ipynb` – Python notebook containing data creation, analysis, and visualizations.
+- `Deliverable-4_Final-Code-Notebook.ipynb` – Python notebook containing data creation, analysis, and visualizations.
 - `final_report.pdf` – Final scientific report summarizing the project.
 - `README.md` – Project overview and instructions.
 
